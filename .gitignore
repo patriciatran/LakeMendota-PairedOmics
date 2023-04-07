@@ -2,6 +2,7 @@ Data/
 Figures/
 
 # R Project
+.Rproj.user
 .Rproj
 
 # History files
