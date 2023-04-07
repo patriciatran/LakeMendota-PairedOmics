@@ -5,7 +5,7 @@ Dates: 20 septembre 2019 → 31 mai 2023
 
 Deliverable: Tran et al., 202x??
 
-Role & Contribution: First author
+Role & Contribution: First author, project conception, grant-writing, sampling, lab work (DNA, RNA, viromics), data analyses, writing.
 
 Status: Last round of edits fromm co-authors
 
@@ -17,10 +17,7 @@ Type: Main Thesis
 
 **Email**: [ptran5@wisc.edu](mailto:ptran5@wisc.edu)
 
-**Purpose of this document**:
-
-This goal of this document is to detail the steps of my analysis of my various datasets. I also tried to wrote it in a "tutorial" format that someone could follow along if they were to do a similar analysis. It's broken down in multiple sections for the metagenomes, viromes and metatranscriptomes analyses. I also added some "tips" in there that I tended to always Google and came back to often. I hope this document is useful to you!
-
+**Overall project objective**:
 The overall goal of this project is to understand the spatio-temporal contribution of microbial (bacteria, archaea, and viruses) in lake biogeochemical cycling, specifically in anoxic lakes.
 
 # 🖥️ Data Availability
