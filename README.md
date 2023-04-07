@@ -1,14 +1,15 @@
-# LakeMendota-PairedOmics
 
-# Lake Mendota Paper
+# Status
 
 Dates: 20 septembre 2019 → 31 mai 2023
-Deliverable: Tran et al., 202x ??
-Role & Contribution: First author
-Status: Circulating
-Type: Main Thesis
 
-Github repo: https://github.com/patriciatran/PairBactVir-LakeMendota
+Deliverable: Tran et al., 202x??
+
+Role & Contribution: First author
+
+Status: Last round of edits fromm co-authors
+
+Type: Main Thesis
 
 # ✉️ Contact information
 
