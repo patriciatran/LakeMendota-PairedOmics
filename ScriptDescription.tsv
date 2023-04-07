@@ -1,0 +1,45 @@
+Script	Cleaned	Description	Figures	Type
+Binner_Comparison_CheckM.R	yes	"Comparin how binning methods (e.g.  bin against itself, within layer, or all vs all) affects the bins we get in terms of CheckM "	Fig S1	
+BioSampleSubmission.R	yes	Automating making batch tables for genome upload on NCBI		
+buoyData.R	yes	Plotting Lake Mendota Buoy Data for 2020		Data exploration
+checkm_on_refined_bins_non_dRep.R	yes			Data exploration
+checkv_quality_all.R	yes			Data exploration
+comparing methods.R	yes			
+coverM.R	yes			
+CRISPR-matches.R	yes			
+crispr.R	yes			
+DiversityIndex_MAG.R	yes		Fig 2A	
+dRepMAGS_stats.R	yes			
+Expression_Abund_by_reaction.R	yes			
+fastani-mendota.R	yes		Supp Table	
+FieldDate.R	yes		Fig 1	
+iphop_taxonomy.R	yes			Data exploration
+MAG-phages-abund-expression.R	yes			
+metabolic_summary.R	yes		Fig 7	
+NMDS.R	yes		Fig S3	
+non-phages-in-mg-mt.R	yes			
+normalizedrpkm.R	yes			
+nutrient_data_Mendota_plotting.R	yes			
+Phage_taxo.R	yes			
+phage-host-links-plot.R	current			
+Phage-Host-plot.R				
+phage-host-rpkm.R				
+Phages_expressed_over_time.R				
+phages_in_30_metagenomes.R				
+Phages-Host-by-blast-amg-and-crispr.R				
+priority.R				
+propagate-compare-metagenome-vs-virome.R				
+RecruitmentPlots_CRISPR.R				
+rpkm_normalized_phage_host.R				
+RPKM-abund.R				
+Sankey.R				
+Scaffold_genes_plot_for_EO.R				
+scaffold_map.R				
+sourmash.R				
+sulfate-brock.R				
+sulfate.collected.by.Sam.R				
+sulfide2021.R				
+tablesForPaper.R				
+thesis_chem_data.R				
+vrhyme.R				
+ysi_plots_2021.R				
