@@ -26,7 +26,7 @@ The overall goal of this project is to understand the spatio-temporal contributi
 
 ## The data is released to the public and is under 2 year embargo.
 
-| Item | Accession Number |
+| Item | Details |
 | --- | --- |
 | JGI Proposal | 506328 |
 | Number of bacterial samples | 16 |
