@@ -26,13 +26,14 @@ The overall goal of this project is to understand the spatio-temporal contributi
 
 ## The data is released to the public and is under 2 year embargo.
 
-| JGI Proposal | 506328 |
+| Item | Details |
 | --- | --- |
+| JGI Proposal | 506328 |
 | Number of bacterial samples | 16 |
 | Number of viral samples | 14 |
 | Time span  | July 2020 to October 2020 |
 | Location | Deep Hole Lake Mendota |
-| NCBI Project | https://dataview.ncbi.nlm.nih.gov/object/PRJNA758276 |
+| NCBI Project | https://dataview.ncbi.nlm.nih.gov/object/PRJNA758276 (will be public upon publication)|
 
 ## 🧬 Total Metagenomes & Viromes data link on the JGI:
 
