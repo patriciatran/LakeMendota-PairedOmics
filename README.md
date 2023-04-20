@@ -41,4 +41,5 @@ The overall goal of this project is to understand the spatio-temporal contributi
 
 ## 🧬 Data Availability
 
-The MAGs can be accessed on BioProject PRJNA758276. Under this Bioproject can be accessed all the 431 prokaryotic metagenome-assembled genomes, and the processed 16 RNA-seq samples. The phage genomes can be accessed at 10.6084/m9.figshare.22213846. (note to reviewers: private link is [https://figshare.com/s/9502a09fdba078edda07](https://figshare.com/s/9502a09fdba078edda07) ). 
+The MAGs can be accessed on BioProject PRJNA758276. Under this Bioproject can be accessed all the 431 prokaryotic metagenome-assembled genomes, and the processed 16 RNA-seq samples. The phage genomes can be accessed at 10.6084/m9.figshare.22213846. 
+(note to readers: this will be available after publications - reviewers are sent a private repo link)
