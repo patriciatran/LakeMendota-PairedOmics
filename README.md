@@ -7,9 +7,9 @@ Deliverable: Tran et al., 202x??
 
 Role & Contribution: First author, project conception, grant-writing, sampling, lab work (DNA, RNA, viromics), data analyses, writing.
 
-Status: Last round of edits from co-authors
+Status: Submitted the preprint! Paper will be submitted to journal this week! 
 
-Type: Main Thesis
+Type: Main Thesis Chapter.
 
 # ✉️ Contact information
 
