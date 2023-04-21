@@ -11,6 +11,9 @@ Status: Submitted the preprint! Paper will be submitted to journal this week!
 
 Type: Main Thesis Chapter.
 
+# Please cite:
+Patricia Q Tran, Samantha C Bachand, Benjamin Peterson, Shaomei He, Katherine McMahon, Karthik Anantharaman. "Viral impacts on microbial activity and biogeochemical cycling in a seasonally anoxic freshwater lake" bioRxiv 2023.04.19.537559; doi: https://doi.org/10.1101/2023.04.19.537559
+
 # ✉️ Contact information
 
 **Name**: Patricia Tran
